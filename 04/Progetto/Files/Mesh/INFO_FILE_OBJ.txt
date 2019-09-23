@@ -1,0 +1,2 @@
+f -> nei file indica le faccie dell'oggetto
+v -> indica i vertici

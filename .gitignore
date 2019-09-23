@@ -64,7 +64,6 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.obj
-!*.[Mm]esh/*.obj
 *.iobj
 *.pch
 *.pdb
@@ -329,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+#Kepp obj inside mesh folder
+!**/[Mm]esh/*.obj
